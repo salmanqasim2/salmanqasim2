@@ -100,10 +100,22 @@ salman.build();
 
 ---
 
-## Language Distribution
+## 💻 Language Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmanqasim2&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmanqasim2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" 
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <!-- Repos Per Language Card -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmanqasim2&theme=github_dark" 
+    alt="Repos Per Language"
+  />
 </p>
 
 ---
