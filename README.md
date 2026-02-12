@@ -103,7 +103,7 @@ salman.build();
 ## Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanqasim2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmanqasim2&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
