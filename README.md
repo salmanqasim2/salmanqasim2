@@ -11,9 +11,6 @@ Full Stack Developer • Ruby on Rails • Flutter & Dart • System Design
     <img src="https://img.shields.io/github/followers/salmanqasim2?label=Followers&style=social" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=salmanqasim2&label=Profile%20Views&color=0e75b6&style=flat" />
-  <a href="https://www.linkedin.com/in/salman-qasim2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
 </p>
 
 ---
@@ -111,17 +108,21 @@ salman.build();
 
 ---
 
-## Contact
+## Connect With Me
 
-<p>
-  <a href="mailto:salmanqasim.dev@gmail.com">
+<p align="center">
+  <a href="mailto:salmanqasim214@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/salman-qasim2/">
+  <a href="https://www.linkedin.com/in/salmanqasim214/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://salmanqasim.dev">
-    <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://instagram.com/salman_qasim_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-salmanqasim-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://github.com/salmanqasim2">
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
