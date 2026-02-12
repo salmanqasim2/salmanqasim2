@@ -100,12 +100,12 @@ salman.build();
 
 ---
 
-## 💻 Language Analytics
+## Language Analytics
 
 <p align="center">
-  <!-- Most Used Languages -->
+  <!-- Most Used Languages Card -->
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmanqasim2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmanqasim2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=css,python,javascript,typescript" 
     alt="Most Used Languages"
   />
 </p>
@@ -117,6 +117,11 @@ salman.build();
     alt="Repos Per Language"
   />
 </p>
+
+<p align="center">
+  <strong>Top Languages:</strong> Ruby on Rails 40% • HTML 25% • Dart 20% • CSS 10% • JavaScript 5%
+</p>
+
 
 ---
 
