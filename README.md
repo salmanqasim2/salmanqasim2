@@ -146,5 +146,11 @@ salman.build();
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:02569B&height=120&section=footer"/>
+  
+  ### ⚡ *"Clean code always looks like it was written by someone who cares."* <br/> — Robert C. Martin
+  
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:02569B&height=120&section=footer" alt="Footer Wave" />
+  
 </div>
